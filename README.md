@@ -1,6 +1,6 @@
 # TomeowTokei
 
-專案網址：https://tomeowtokei.website/
+專案網址：https://tomatocat.herokuapp.com/
 
 ![](https://i.imgur.com/VwxgpEG.png)
 
